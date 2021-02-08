@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "CustomColorGreen",
+        "repositoryURL": "https://github.com/GabrielGGuim/Teaching---Swift-Package-Manager-SPM-.git",
+        "state": {
+          "branch": "master",
+          "revision": "5fffdac05d1bb0c6176a0225c21edbe76b9984f2",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
